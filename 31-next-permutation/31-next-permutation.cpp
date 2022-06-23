@@ -19,22 +19,20 @@ public:
                 break;
             }
         }
-        cout<<val;
         
         if(immediate_next_at==-1){
             sort(nums.begin(),nums.end());
             return;
         }
-        int len=nums.size()-val;
-        for(int k=0;k<len-1;k++)
-        {
-            for(int j=0;j<len-1-k;j++)
-            {
-                if(nums[j+val]>nums[j+1+val])
-                    swap(nums[j+val],nums[j+1+val]);
-            }
-        }
-        for(int i=0;i<nums.size();i++)
-            cout<<nums[i];
+        sort(nums.begin()+val,nums.end());
+        // int len=nums.size()-val;
+        // for(int k=0;k<len-1;k++)
+        // {
+        //     for(int j=0;j<len-1-k;j++)
+        //     {
+        //         if(nums[j+val]>nums[j+1+val])
+        //             swap(nums[j+val],nums[j+1+val]);
+        //     }
+        // }
     }
 };
