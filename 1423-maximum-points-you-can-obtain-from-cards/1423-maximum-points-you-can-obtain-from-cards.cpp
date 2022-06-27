@@ -1,20 +1,21 @@
 class Solution {
 public:
     int maxScore(vector<int>& nums, int k) {
-       int maxsum=0,maxi=0;
-        for(int i=0;i<nums.size();i++)
-        {
+       int maxsum=0,n=nums.size();int mini;
+        for(int i=0;i<n-k;i++)
             maxsum+=nums[i];
-            nums[i]=maxsum;
-        }
-        if(k==nums.size())
-            return maxsum;
-        maxi=maxsum-nums[nums.size()-k-1];
-        for(int i=0;i<k;i++)
+        mini=maxsum;
+        for(int i=n-k;i<nums.size();i++)
         {
-            maxi=max(maxi,maxsum-nums[nums.size()-k+i]+nums[i]);
+            maxsum=(nums[i]+maxsum-nums[i-n+k]);
+            mini=min(mini,maxsum);
+            
         }
-        return maxi;
+        int sum=0;
+        for(int i=0;i<nums.size();i++){
+         sum+=nums[i];
+    }
+        return sum-mini;
     }
         
 };
