@@ -5,16 +5,14 @@ public:
         for(int i=0;i<n-k;i++)
             maxsum+=nums[i];
         mini=maxsum;
+        int sum=maxsum;
         for(int i=n-k;i<nums.size();i++)
         {
+            sum+=nums[i];
             maxsum=(nums[i]+maxsum-nums[i-n+k]);
             mini=min(mini,maxsum);
             
         }
-        int sum=0;
-        for(int i=0;i<nums.size();i++){
-         sum+=nums[i];
-    }
         return sum-mini;
     }
         
