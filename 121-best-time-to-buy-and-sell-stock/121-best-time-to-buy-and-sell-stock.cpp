@@ -2,12 +2,14 @@ class Solution {
 public:
     int maxProfit(vector<int>& prices) {
         int minday=prices[0];
-        int maxProfit=0;
+        int profit=0;
         for(int i=0;i<prices.size();i++)
         {
-            minday=min(minday,prices[i]);
-            maxProfit=max(maxProfit,prices[i]-minday);
+            if(profit<prices[i]-minday)
+                profit=prices[i]-minday;
+            else if(prices[i]-minday<0)
+                minday=prices[i];
         }
-        return maxProfit;
+        return profit;
     }
 };
