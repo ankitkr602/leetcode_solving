@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/ankitkr602/leetcode_solving/tree/master/0041-first-missing-positive) |
+| [0198-house-robber](https://github.com/ankitkr602/leetcode_solving/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankitkr602/leetcode_solving/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/ankitkr602/leetcode_solving/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
