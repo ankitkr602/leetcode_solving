@@ -21,6 +21,8 @@ class Solution {
             else 
             dp[0][i] =1;
         }
+        if(obstacleGrid[0][0]== 1)
+        return 0;
         for(int i=1;i<obstacleGrid.length;i++){
             for(int j =1;j<obstacleGrid[0].length; j++){
                 if(obstacleGrid[i][j] !=1){
