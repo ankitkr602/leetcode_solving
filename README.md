@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/ankitkr602/leetcode_solving/tree/master/0041-first-missing-positive) |
+| [0146-lru-cache](https://github.com/ankitkr602/leetcode_solving/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -31,4 +32,16 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ankitkr602/leetcode_solving/tree/master/0063-unique-paths-ii) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ankitkr602/leetcode_solving/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ankitkr602/leetcode_solving/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ankitkr602/leetcode_solving/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
