@@ -15,7 +15,7 @@ class Solution {
                 //case to use ladders
                     if(!pq.isEmpty()){
                         
-                        if(pq.peek() > diff){
+                        if(pq.peek() >= diff){
                         bricks += pq.peek();
                         pq.poll();
                         bricks -= diff;
