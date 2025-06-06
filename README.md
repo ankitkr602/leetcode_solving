@@ -9,6 +9,7 @@
 | [0198-house-robber](https://github.com/ankitkr602/leetcode_solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ankitkr602/leetcode_solving/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/ankitkr602/leetcode_solving/tree/master/0238-product-of-array-except-self) |
+| [1762-furthest-building-you-can-reach](https://github.com/ankitkr602/leetcode_solving/tree/master/1762-furthest-building-you-can-reach) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ankitkr602/leetcode_solving/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [1762-furthest-building-you-can-reach](https://github.com/ankitkr602/leetcode_solving/tree/master/1762-furthest-building-you-can-reach) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1762-furthest-building-you-can-reach](https://github.com/ankitkr602/leetcode_solving/tree/master/1762-furthest-building-you-can-reach) |
 <!---LeetCode Topics End-->
