@@ -7,7 +7,6 @@ class Solution {
             {
                if(result.substring(result.length()-part.length()).equals(part)){
                 result = result.delete(result.length() -part.length(),result.length());
-                System.out.println(result);
                }
             }
         }
