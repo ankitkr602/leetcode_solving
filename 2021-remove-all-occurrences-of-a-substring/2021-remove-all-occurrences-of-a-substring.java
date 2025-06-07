@@ -5,8 +5,9 @@ class Solution {
             result.append(s.charAt(i));
             if(result.length() >= part.length())
             {
-               if(result.substring(result.length()-part.length()).equals(part)){
-                result = result.delete(result.length() -part.length(),result.length());
+                int idx = result.indexOf(part);
+               if(idx !=-1 && result.substring(idx).equals(part)){
+                result = result.delete(idx,result.length());
                }
             }
         }
