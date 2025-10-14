@@ -26,6 +26,7 @@
 | [0063-unique-paths-ii](https://github.com/ankitkr602/leetcode_solving/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/ankitkr602/leetcode_solving/tree/master/0070-climbing-stairs) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ankitkr602/leetcode_solving/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ankitkr602/leetcode_solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/ankitkr602/leetcode_solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ankitkr602/leetcode_solving/tree/master/0213-house-robber-ii) |
 ## Memoization
@@ -72,4 +73,16 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ankitkr602/leetcode_solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ankitkr602/leetcode_solving/tree/master/0124-binary-tree-maximum-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ankitkr602/leetcode_solving/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ankitkr602/leetcode_solving/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
