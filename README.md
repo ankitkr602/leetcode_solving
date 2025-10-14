@@ -17,6 +17,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ankitkr602/leetcode_solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/ankitkr602/leetcode_solving/tree/master/0041-first-missing-positive) |
 | [0146-lru-cache](https://github.com/ankitkr602/leetcode_solving/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/ankitkr602/leetcode_solving/tree/master/0347-top-k-frequent-elements) |
@@ -72,6 +73,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ankitkr602/leetcode_solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ankitkr602/leetcode_solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankitkr602/leetcode_solving/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ankitkr602/leetcode_solving/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
