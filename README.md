@@ -11,6 +11,7 @@
 | [0213-house-robber-ii](https://github.com/ankitkr602/leetcode_solving/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/ankitkr602/leetcode_solving/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/ankitkr602/leetcode_solving/tree/master/0347-top-k-frequent-elements) |
+| [0917-boats-to-save-people](https://github.com/ankitkr602/leetcode_solving/tree/master/0917-boats-to-save-people) |
 | [1762-furthest-building-you-can-reach](https://github.com/ankitkr602/leetcode_solving/tree/master/1762-furthest-building-you-can-reach) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0917-boats-to-save-people](https://github.com/ankitkr602/leetcode_solving/tree/master/0917-boats-to-save-people) |
 | [1762-furthest-building-you-can-reach](https://github.com/ankitkr602/leetcode_solving/tree/master/1762-furthest-building-you-can-reach) |
 ## Heap (Priority Queue)
 |  |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ankitkr602/leetcode_solving/tree/master/0347-top-k-frequent-elements) |
+| [0917-boats-to-save-people](https://github.com/ankitkr602/leetcode_solving/tree/master/0917-boats-to-save-people) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -114,4 +117,8 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ankitkr602/leetcode_solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/ankitkr602/leetcode_solving/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
