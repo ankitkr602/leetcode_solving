@@ -43,6 +43,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/ankitkr602/leetcode_solving/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/ankitkr602/leetcode_solving/tree/master/0146-lru-cache) |
 ## Design
 |  |
@@ -121,4 +122,8 @@
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/ankitkr602/leetcode_solving/tree/master/0917-boats-to-save-people) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/ankitkr602/leetcode_solving/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
