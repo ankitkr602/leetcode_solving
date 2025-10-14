@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/ankitkr602/leetcode_solving/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/ankitkr602/leetcode_solving/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/ankitkr602/leetcode_solving/tree/master/0063-unique-paths-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ankitkr602/leetcode_solving/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0198-house-robber](https://github.com/ankitkr602/leetcode_solving/tree/master/0198-house-robber) |
@@ -26,6 +27,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ankitkr602/leetcode_solving/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/ankitkr602/leetcode_solving/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/ankitkr602/leetcode_solving/tree/master/0070-climbing-stairs) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ankitkr602/leetcode_solving/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -74,6 +76,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ankitkr602/leetcode_solving/tree/master/0042-trapping-rain-water) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ankitkr602/leetcode_solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -121,9 +124,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ankitkr602/leetcode_solving/tree/master/0042-trapping-rain-water) |
 | [0917-boats-to-save-people](https://github.com/ankitkr602/leetcode_solving/tree/master/0917-boats-to-save-people) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ankitkr602/leetcode_solving/tree/master/0025-reverse-nodes-in-k-group) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ankitkr602/leetcode_solving/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
