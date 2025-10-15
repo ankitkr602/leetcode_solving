@@ -1,18 +1,27 @@
 class Solution {
-    public boolean checkInclusion(String s1, String s2) {
-        HashMap<Character, Integer> mp = new HashMap<>(s1.length());
-        for(int i =0;i< s1.length();i++){
-            mp.put(s1.charAt(i), mp.getOrDefault(s1.charAt(i), 0) + 1);
+    private boolean matches(int a1[], int a2[]){
+        for(int i = 0 ;i< 26;i++){
+            if(a1[i]!=a2[i])
+            return false;
         }
-        for(int i =0; i<= s2.length() - s1.length(); i++)
-            {
-                HashMap<Character, Integer> mp1 = new HashMap<>(s1.length());
-                for(int j =i; j< i+s1.length(); j++){
-                     mp1.put(s2.charAt(j), mp1.getOrDefault(s2.charAt(j), 0) + 1);
-                }
-                if(mp1.equals(mp))
-                return true;
-            }
+        return true;
+    }
+    public boolean checkInclusion(String s1, String s2) {
+        if(s1.length()> s2.length())
         return false;
+        int arr[]= new int[26];
+        int arr1[] = new int[26];
+        for(int i =0;i< s1.length();i++){
+           arr[s1.charAt(i)-'a']++;
+           arr1[s2.charAt(i)-'a']++;
+        }
+        for(int i =0; i< s2.length() - s1.length(); i++)
+            {
+                if(matches(arr, arr1))
+                return true;
+                arr1[s2.charAt(i+s1.length())-'a']++;
+                arr1[s2.charAt(i)-'a']--;
+            }
+        return matches(arr, arr1);
     }
 }
