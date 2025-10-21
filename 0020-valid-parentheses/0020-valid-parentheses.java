@@ -12,7 +12,7 @@ class Solution {
                 return false;
                 else{
                 if(c == ')'){
-                    if(!st.isEmpty() && st.peek()== '('){
+                    if(st.peek()== '('){
                     st.pop();
                     }
                     else
@@ -20,7 +20,7 @@ class Solution {
                 }
                 else if(c==']'){
                    
-                    if(!st.isEmpty() && st.peek()== '['){
+                    if(st.peek()== '['){
                     st.pop();
                  
                 }
@@ -29,7 +29,7 @@ class Solution {
                 }
                 else if(c == '}'){
                     
-                    if(!st.isEmpty() && st.peek()== '{'){
+                    if(st.peek()== '{'){
                     st.pop();
                    
                     }
@@ -39,7 +39,7 @@ class Solution {
             }
             }
         }
-        if(st.size()> 0 || closingcount>0)
+        if(st.size()> 0)
         return false;
         return true;
     }
