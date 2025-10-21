@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ankitkr602/leetcode_solving/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/ankitkr602/leetcode_solving/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankitkr602/leetcode_solving/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ankitkr602/leetcode_solving/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/ankitkr602/leetcode_solving/tree/master/0155-min-stack) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ankitkr602/leetcode_solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
