@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitkr602/leetcode_solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/ankitkr602/leetcode_solving/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ankitkr602/leetcode_solving/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/ankitkr602/leetcode_solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ankitkr602/leetcode_solving/tree/master/0567-permutation-in-string) |
@@ -86,6 +87,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ankitkr602/leetcode_solving/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ankitkr602/leetcode_solving/tree/master/0042-trapping-rain-water) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ankitkr602/leetcode_solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
