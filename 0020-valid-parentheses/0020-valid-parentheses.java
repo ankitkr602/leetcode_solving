@@ -8,6 +8,9 @@ class Solution {
                 st.push(c);
             }
             else {
+                if(st.isEmpty())
+                return false;
+                else{
                 if(c == ')'){
                     if(!st.isEmpty() && st.peek()== '('){
                     st.pop();
@@ -33,6 +36,7 @@ class Solution {
                     else
                     return false;
                 }
+            }
             }
         }
         if(st.size()> 0 || closingcount>0)
