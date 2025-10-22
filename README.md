@@ -15,6 +15,7 @@
 | [0239-sliding-window-maximum](https://github.com/ankitkr602/leetcode_solving/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ankitkr602/leetcode_solving/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/ankitkr602/leetcode_solving/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/ankitkr602/leetcode_solving/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/ankitkr602/leetcode_solving/tree/master/0917-boats-to-save-people) |
 | [1762-furthest-building-you-can-reach](https://github.com/ankitkr602/leetcode_solving/tree/master/1762-furthest-building-you-can-reach) |
 ## Hash Table
@@ -96,6 +97,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankitkr602/leetcode_solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ankitkr602/leetcode_solving/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/ankitkr602/leetcode_solving/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/ankitkr602/leetcode_solving/tree/master/0883-car-fleet) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ankitkr602/leetcode_solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ankitkr602/leetcode_solving/tree/master/0347-top-k-frequent-elements) |
+| [0883-car-fleet](https://github.com/ankitkr602/leetcode_solving/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/ankitkr602/leetcode_solving/tree/master/0917-boats-to-save-people) |
 ## Bucket Sort
 |  |
@@ -155,6 +158,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankitkr602/leetcode_solving/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/ankitkr602/leetcode_solving/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/ankitkr602/leetcode_solving/tree/master/0883-car-fleet) |
 ## Sliding Window
 |  |
 | ------- |
