@@ -16,6 +16,7 @@
 | [0239-sliding-window-maximum](https://github.com/ankitkr602/leetcode_solving/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ankitkr602/leetcode_solving/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/ankitkr602/leetcode_solving/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/ankitkr602/leetcode_solving/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/ankitkr602/leetcode_solving/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/ankitkr602/leetcode_solving/tree/master/0917-boats-to-save-people) |
 | [1762-furthest-building-you-can-reach](https://github.com/ankitkr602/leetcode_solving/tree/master/1762-furthest-building-you-can-reach) |
@@ -178,4 +179,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ankitkr602/leetcode_solving/tree/master/0239-sliding-window-maximum) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/ankitkr602/leetcode_solving/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
