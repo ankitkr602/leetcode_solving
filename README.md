@@ -11,6 +11,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/ankitkr602/leetcode_solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ankitkr602/leetcode_solving/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankitkr602/leetcode_solving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankitkr602/leetcode_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/ankitkr602/leetcode_solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ankitkr602/leetcode_solving/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/ankitkr602/leetcode_solving/tree/master/0238-product-of-array-except-self) |
@@ -186,6 +187,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ankitkr602/leetcode_solving/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankitkr602/leetcode_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/ankitkr602/leetcode_solving/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ankitkr602/leetcode_solving/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
