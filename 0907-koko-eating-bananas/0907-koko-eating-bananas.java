@@ -11,9 +11,12 @@ class Solution {
     }
     public int minEatingSpeed(int[] piles, int h) {
         int mineating = Integer.MAX_VALUE;
-        Arrays.sort(piles);
+        int maxi = piles[0];
+        for(int pile : piles){
+            maxi = Math.max(maxi, pile);
+        }
         int left = 1;
-        int right = piles[piles.length -1];
+        int right = maxi;
         while(left <= right){
             int mid = left + (right - left)/2;
             if(bananaEating(piles,mid,h)){
