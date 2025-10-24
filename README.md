@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ankitkr602/leetcode_solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/ankitkr602/leetcode_solving/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ankitkr602/leetcode_solving/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/ankitkr602/leetcode_solving/tree/master/0063-unique-paths-ii) |
@@ -186,6 +187,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ankitkr602/leetcode_solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ankitkr602/leetcode_solving/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankitkr602/leetcode_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/ankitkr602/leetcode_solving/tree/master/0792-binary-search) |
