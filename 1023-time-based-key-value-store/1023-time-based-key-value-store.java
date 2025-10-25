@@ -20,7 +20,7 @@ class TimeMap {
     public String get(String key, int timestamp) {
         if(m.containsKey(key)){
             TreeMap<Integer, String> temp = m.get(key);
-            return temp.containsKey(timestamp) ? temp.get(timestamp) : temp.floorEntry(timestamp)== null ? "": temp.floorEntry(timestamp).getValue() ;
+            return temp.floorEntry(timestamp)== null ? "": temp.floorEntry(timestamp).getValue() ;
         }
         return "";
     }
