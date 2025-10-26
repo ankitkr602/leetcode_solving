@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ankitkr602/leetcode_solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ankitkr602/leetcode_solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/ankitkr602/leetcode_solving/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ankitkr602/leetcode_solving/tree/master/0042-trapping-rain-water) |
@@ -131,6 +132,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ankitkr602/leetcode_solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/ankitkr602/leetcode_solving/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -190,6 +192,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ankitkr602/leetcode_solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ankitkr602/leetcode_solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ankitkr602/leetcode_solving/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankitkr602/leetcode_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
