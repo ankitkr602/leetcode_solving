@@ -63,6 +63,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ankitkr602/leetcode_solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ankitkr602/leetcode_solving/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ankitkr602/leetcode_solving/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/ankitkr602/leetcode_solving/tree/master/0146-lru-cache) |
@@ -161,6 +162,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ankitkr602/leetcode_solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/ankitkr602/leetcode_solving/tree/master/0042-trapping-rain-water) |
 | [0567-permutation-in-string](https://github.com/ankitkr602/leetcode_solving/tree/master/0567-permutation-in-string) |
 | [0917-boats-to-save-people](https://github.com/ankitkr602/leetcode_solving/tree/master/0917-boats-to-save-people) |
