@@ -40,6 +40,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ankitkr602/leetcode_solving/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/ankitkr602/leetcode_solving/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankitkr602/leetcode_solving/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Dynamic Programming
@@ -64,6 +65,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ankitkr602/leetcode_solving/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ankitkr602/leetcode_solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ankitkr602/leetcode_solving/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ankitkr602/leetcode_solving/tree/master/0025-reverse-nodes-in-k-group) |
@@ -174,6 +176,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ankitkr602/leetcode_solving/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ankitkr602/leetcode_solving/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ankitkr602/leetcode_solving/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/ankitkr602/leetcode_solving/tree/master/0143-reorder-list) |
