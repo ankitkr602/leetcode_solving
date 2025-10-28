@@ -31,9 +31,9 @@ class Solution {
         head1 = dummy.next;
         head2 = head;
         while(head2!=null){
-             head1.random = mp.get(head2.random);
+             
             if(mp.containsKey(head2.random))
-            System.out.println(head2.val);
+            head1.random = mp.get(head2.random);
             else 
             head1.random = null;
             head1 = head1.next;
