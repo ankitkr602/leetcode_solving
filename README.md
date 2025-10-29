@@ -32,6 +32,7 @@
 | [0041-first-missing-positive](https://github.com/ankitkr602/leetcode_solving/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/ankitkr602/leetcode_solving/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/ankitkr602/leetcode_solving/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/ankitkr602/leetcode_solving/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ankitkr602/leetcode_solving/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/ankitkr602/leetcode_solving/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ankitkr602/leetcode_solving/tree/master/0424-longest-repeating-character-replacement) |
@@ -70,6 +71,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/ankitkr602/leetcode_solving/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ankitkr602/leetcode_solving/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/ankitkr602/leetcode_solving/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/ankitkr602/leetcode_solving/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ankitkr602/leetcode_solving/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/ankitkr602/leetcode_solving/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ankitkr602/leetcode_solving/tree/master/0206-reverse-linked-list) |
@@ -170,6 +172,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ankitkr602/leetcode_solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/ankitkr602/leetcode_solving/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/ankitkr602/leetcode_solving/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ankitkr602/leetcode_solving/tree/master/0143-reorder-list) |
 | [0567-permutation-in-string](https://github.com/ankitkr602/leetcode_solving/tree/master/0567-permutation-in-string) |
 | [0917-boats-to-save-people](https://github.com/ankitkr602/leetcode_solving/tree/master/0917-boats-to-save-people) |
